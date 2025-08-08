@@ -75,6 +75,25 @@ Examples:
 - Speed camera
 - Blue plaque
 
+## Hangman
+
+Hangman is a classic word-guessing game where one player thinks of a word and draws blank spaces representing each letter, while the other player guesses letters one at a time. Correct guesses reveal the letter's position in the word, while incorrect guesses result in drawing parts of a stick figure being "hanged" - typically starting with a gallows, then adding a head, body, arms, and legs with each wrong guess. The guesser wins by completing the word before the drawing is finished, usually after six to eight incorrect guesses.
+
+The game selects a word, and draws the dashes representing characters and forward slashes representing a change of word. The app should draw a gallows with a hangman on each incorrect guess, and populate the characters where the guess of a character is correct. Guesses are case insensitive. 
+
+Examples
+- Road trip
+- Pack your bags
+- Lets go to the beach
+- Moutain biking
+- City break
+- Swimming pool
+- Airport terminal
+- Train station
+- Theme park
+- Rollercoaster
+- Museum
+
 # Development Commands
 
 To be determined based on the technology stack chosen for the project.

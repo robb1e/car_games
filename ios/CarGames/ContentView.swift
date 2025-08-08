@@ -30,6 +30,13 @@ struct ContentView: View {
                                  systemImage: "eye.fill",
                                  color: .green)
                     }
+                    
+                    NavigationLink(destination: HangmanView()) {
+                        GameButton(title: "Hangman", 
+                                 subtitle: "Guess the phrase letter by letter",
+                                 systemImage: "text.word.spacing",
+                                 color: .blue)
+                    }
                 }
                 .padding(.horizontal)
                 

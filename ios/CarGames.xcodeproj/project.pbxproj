@@ -14,6 +14,8 @@
 		8D15A85F2C5E4B0000F12345 /* RainbowRoadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D15A85E2C5E4B0000F12345 /* RainbowRoadView.swift */; };
 		8D15A8612C5E4B1000F12345 /* TwentyQuestionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D15A8602C5E4B1000F12345 /* TwentyQuestionsView.swift */; };
 		8D15A8632C5E4B2000F12345 /* FindMeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D15A8622C5E4B2000F12345 /* FindMeView.swift */; };
+		E95F09F62E4640BC00CD4D53 /* HangmanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95F09F52E4640BC00CD4D53 /* HangmanView.swift */; };
+		E95F09F72E4640BC00CD4D53 /* AppIconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E95F09F42E4640BC00CD4D53 /* AppIconView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		8D15A85E2C5E4B0000F12345 /* RainbowRoadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainbowRoadView.swift; sourceTree = "<group>"; };
 		8D15A8602C5E4B1000F12345 /* TwentyQuestionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwentyQuestionsView.swift; sourceTree = "<group>"; };
 		8D15A8622C5E4B2000F12345 /* FindMeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMeView.swift; sourceTree = "<group>"; };
+		E95F09F42E4640BC00CD4D53 /* AppIconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppIconView.swift; sourceTree = "<group>"; };
+		E95F09F52E4640BC00CD4D53 /* HangmanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HangmanView.swift; sourceTree = "<group>"; };
 		E9A30FB42E44D4E400CACD64 /* CarGamesRelease.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CarGamesRelease.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -59,6 +63,8 @@
 		8D15A84E2C5E4A8A00F12345 /* CarGames */ = {
 			isa = PBXGroup;
 			children = (
+				E95F09F42E4640BC00CD4D53 /* AppIconView.swift */,
+				E95F09F52E4640BC00CD4D53 /* HangmanView.swift */,
 				E9A30FB42E44D4E400CACD64 /* CarGamesRelease.entitlements */,
 				8D15A84F2C5E4A8A00F12345 /* CarGamesApp.swift */,
 				8D15A8512C5E4A8A00F12345 /* ContentView.swift */,
@@ -154,6 +160,8 @@
 				8D15A85F2C5E4B0000F12345 /* RainbowRoadView.swift in Sources */,
 				8D15A8612C5E4B1000F12345 /* TwentyQuestionsView.swift in Sources */,
 				8D15A8632C5E4B2000F12345 /* FindMeView.swift in Sources */,
+				E95F09F62E4640BC00CD4D53 /* HangmanView.swift in Sources */,
+				E95F09F72E4640BC00CD4D53 /* AppIconView.swift in Sources */,
 				8D15A8502C5E4A8A00F12345 /* CarGamesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
